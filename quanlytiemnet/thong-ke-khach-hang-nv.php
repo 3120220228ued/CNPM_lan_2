@@ -6,7 +6,7 @@ require_once('./db_connect.php');
 require_once('./include/function.php');
 require_once('./header-nv.php');
 
-
+//test
 ?>
 <div class="row mb-5">
     <h2>Khách hàng bình thường</h2>
